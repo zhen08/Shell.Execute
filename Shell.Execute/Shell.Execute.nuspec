@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Shell.Execute</id>
+    <version>0.1</version>
+    <title>Shell.Execute</title>
+    <authors>zl1ji</authors>
+    <owners>zl1ji</owners>
+    <licenseUrl>https://raw.githubusercontent.com/zhen08/Shell.Execute/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/zhen08/Shell.Execute</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.Net library to execute Linux command line programs.</description>
+    <releaseNotes>Initial version.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>linux execute launch</tags>
+  </metadata>
+  <files>
+  	<file src="bin/Release/*.dll" target="lib" />
+  </files>
+</package>
